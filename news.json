@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "Align or die: Revealing unknown mechanism essential for bacterial cell division",
+        "overview": "A previously unknown mechanism of active matter self-organization essential for bacter",
+        "category": "Science",
+        "date": "2023-08-4",
+        "image": "image/1.jpeg"
+    },
+    {
+        "id": 2,
+        "title": "Mars and Jupiter get chummy in the night sky. The planets won't get this close again until 2033",
+        "overview": "Mars and Jupiter are cozying up in the night sky for their closest rendezvous this decade.",
+        "category": "Science",
+        "date": "2023-07-4",
+        "image": "image/2.jpeg"
+    },
+    {
+        "id": 3,
+        "title": "Flood of 'junk': How AI is changing scientific publishing",
+        "overview": "An infographic of a rat with a preposterously large penis. Another showing human legs with way too many bones. An introduction that starts: Certainly, here is a possible introduction for your topic",
+        "category": "Science",
+        "date": "2023-09-7",
+        "image": "image/3.jpeg"
+    },
+    {
+        "id": 4,
+        "title": "The Future is Interdisciplinary",
+        "overview": "Find out how ACS can accelerate your research to keep up with the discoveries that are pushing us into science’s next frontier",
+        "category": "Science",
+        "date": "2023-09-10",
+        "image": "image/4.jpeg"
+    },
+    {
+        "id": 5,
+        "title": "Testing the viability of using horse milk to make ice cream",
+        "overview": "A team of food scientists at West Pomeranian University of Technology, in Poland, has found that using horse milk instead of cow milk to make ice cream is a viable food choice. In their study, published on the open-access",
+        "category": "Science",
+        "date": "2024-05-4",
+        "image": "image/5.jpeg"
+    },
+    {
+        "id": 6,
+        "title": "Olympics",
+        "overview": "Tom Cruise hands Olympic flag to LA, closing Paris Games",
+        "category": "Sport",
+        "date": "2024-05-4",
+        "image": "image/6.jpeg"
+    },
+    {
+        "id": 7,
+        "title": "Tennis",
+        "overview": "Alcaraz sets sights on year-end number one spot",
+        "category": "Sport",
+        "date": "2024-07-9",
+        "image": "image/7.jpeg"
+    },
+    {
+        "id": 8,
+        "title": "Paris Olympics: China cracks down on 'fan wars' as woman gets arrested",
+        "overview": "The Paris Olympics have triggered major arguments between ultra fans in China, leading to the removal of thousands of social media posts and the suspension of hundreds of users.",
+        "category": "Sport",
+        "date": "2024-4-7",
+        "image": "image/8.jpeg"
+    },
+    {
+        "id": 9,
+        "title": "Dual national Kaylia Nemour's gymnastics gold for Algeria has France feeling left out",
+        "overview": "Dual national Kaylia Nemour's gymnastics gold for Algeria has France feeling left out",
+        "category": "Sport",
+        "date": "2024-01-4",
+        "image": "image/9.jpeg"
+    },
+    {
+        "id": 10,
+        "title": "Slovakian swimmer Tamara Potocká collapses after women's 200m individual medley race",
+        "overview": "The 21-year-old Olympian fell as she got out of the water and was immediately surrounded by medical staff.",
+        "category": "Sport",
+        "date": "2024-04-4",
+        "image": "image/10.jpeg"
+    },
+    {
+        "id": 11,
+        "title": "Why cultural destruction is such a dangerous military tactic",
+        "overview": "A landmark report shows how attacks on heritage can cause “psychosocial, economic, and other types of harm”—but laws need to go further",
+        "category": "Art",
+        "date": "2024-01-4",
+        "image": "image/11.jpeg"
+    },
+    {
+        "id": 12,
+        "title": "Abu Dhabi's sovereign wealth fund to acquire minority stake in Sotheby's",
+        "overview": "Patrick Drahi will remain auction house's majority shareholder in $1bn deal, as ADQ buys shares to reduce leverage and support growth and innovation",
+        "category": "Art",
+        "date": "2024-02-4",
+        "image": "image/12.jpeg"
+    },
+    {
+        "id": 13,
+        "title": "Harvard University will not rename its Arthur M. Sackler Museum",
+        "overview": "The decision follows a years-long campaign by activists who urged Harvard to distance itself from the Sackler family over its ties to the opioid epidemic",
+        "category": "Art",
+        "date": "2024-06-6",
+        "image": "image/13.jpeg"
+    },
+    {
+        "id": 14,
+        "title": "Banksys fifth animal mural in less than a week appears in east London",
+        "overview": "The picture of a pair of pelicans joins others depicting elephants, an ibex goat, monkeys and a wolf that have popped up on structures across the capital",
+        "category": "Art",
+        "date": "2024-05-5",
+        "image": "image/14.jpeg"
+    },
+    {
+        "id": 15,
+        "title": "Heavy rains cause partial collapse of ancient pyramid in Mexico",
+        "overview": "Authorities said that significant precipitation amid a severe drought had undermined the Purépecha structure at Ihuatzio",
+        "category": "Art",
+        "date": "2024-03-4",
+        "image": "image/15.jpeg"
+    },
+    {
+        "id": 16,
+        "title": "Political Tensions Escalate in Neighboring Countries",
+        "overview": "The ongoing border dispute between two neighboring countries has escalated, leading to increased military presence and concerns about the potential for conflict.",
+        "category": "Political",
+        "date": "2024-03-02",
+        "image": "image/16.jpeg"
+    },
+    {
+        "id": 17,
+        "title": "New Environmental Legislation Passes in Congress",
+        "overview": "The US Congress has passed a comprehensive environmental protection bill, which is expected to have a significant impact on reducing greenhouse gas emissions and promoting sustainable practices.",
+        "category": "Political",
+        "date": "2024-06-05",
+        "image": "image/17.jpeg"
+    },
+    {
+        "id": 18,
+        "title": "Geopolitical Tensions Ease Between Major Powers",
+        "overview": "After months of heightened tensions, the leaders of two major global powers have met and reached an agreement to de-escalate their ongoing political and economic disputes.",
+        "category": "Political",
+        "date": "2024-05-09",
+        "image": "image/18.jpeg"
+    },
+    {
+        "id": 19,
+        "title": "Landmark Supreme Court Ruling Impacts Healthcare Policy",
+        "overview": "The Supreme Court has handed down a landmark decision that is expected to have significant implications for the future of healthcare policy in the country.",
+        "category": "Political",
+        "date": "2024-07-13",
+        "image": "image/19.jpeg"
+    },
+    {
+        "id": 20,
+        "title": "Geopolitical Tensions Escalate Between Major Powers",
+        "overview": "Tensions between two major global powers have escalated, leading to concerns about the potential for increased political and economic instability in the region.",
+        "category": "Political",
+        "date": "2023-08-17",
+        "image": "image/20.jpeg"
+    }
+]
